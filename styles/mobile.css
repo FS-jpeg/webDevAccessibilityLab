@@ -23,6 +23,22 @@ footer {
   color: #fff;
 }
 
+#logo a:link{
+color: #fff;
+}
+#logo a:visited{
+color: #fff;
+}
+#logo a:hover{
+color: #fff;
+}
+#logo a:focus{
+color: #fff;
+}
+#logo a:active{
+color: #fff;
+}
+
 header {
   background-color: #263248;
 }
